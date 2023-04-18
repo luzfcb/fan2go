@@ -13,6 +13,7 @@
 [![Latest Release](https://img.shields.io/github/release/markusressel/fan2go.svg)](https://github.com/markusressel/fan2go/releases)
 [![License](https://img.shields.io/badge/license-AGPLv3-blue.svg)](/LICENSE)
 
+
 </div>
 
 <p align="center"><img src="screenshots/graph.png" width=90% alt="Screenshot of Pyrra"></p>
